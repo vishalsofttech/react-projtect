@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vishalsofttech/react-projtect/static/css/main.073c9b0a.css",
+    "main.js": "/vishalsofttech/react-projtect/static/js/main.52db5b44.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/vishalsofttech/react-projtect/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/logo.svg": "/vishalsofttech/react-projtect/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vishalsofttech/react-projtect/index.html",
+    "main.073c9b0a.css.map": "/vishalsofttech/react-projtect/static/css/main.073c9b0a.css.map",
+    "main.52db5b44.js.map": "/vishalsofttech/react-projtect/static/js/main.52db5b44.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/vishalsofttech/react-projtect/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.52db5b44.js"
+  ]
+}
